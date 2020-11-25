@@ -1,4 +1,4 @@
-![](https://github.com/Ela-Bo/HR_Dataset_Exploratory_Data_Analysis/blob/main/ImageHR.png)
+![](https://github.com/Ela-Bo/HR_Dataset_Exploratory_Data_Analysis/blob/main/ImageHeader.png)
 
 # HR Analytics
 
