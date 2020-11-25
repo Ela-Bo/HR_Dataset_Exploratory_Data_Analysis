@@ -24,4 +24,4 @@ The dataset is is a randomly created HR-related dataset from kaggle: https://www
 
 # EDA 
 
-Here you can find the notebook for some insight on my EDA. I know there is some future work and I'll try to go on as soon as possible. But at this stage the EDA can show some ways to gain insights from your HR Data.
+[Here](https://github.com/Ela-Bo/HR_Dataset_Exploratory_Data_Analysis/blob/main/HR_Dataset.ipynb) you can find the notebook for some insight on my EDA. I know there is some future work and I'll try to go on as soon as possible. But at this stage the EDA can show some ways to gain insights from your HR Data.
